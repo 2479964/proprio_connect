@@ -17,5 +17,11 @@ Proprio connect est une application qui permet aux propriétaires d'effectuer la
 # Gestion de locataire
 - Nom
 - Âge
+- Informations de contactes
 - Plaintes
 - etc
+# Informations revenue
+- coût totale par mois
+- coût a prévoire
+- Revenues par mois
+- profit
