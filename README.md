@@ -1,4 +1,3 @@
-# Proprio Connect
 ![Proprio_connect_logo_backno](https://github.com/user-attachments/assets/3862a525-904f-49b3-ad88-51d8fa0c4a52)
 
 
