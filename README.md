@@ -14,7 +14,7 @@ Proprio connect est une application qui permet aux propriétaires d'effectuer la
 - réparations nécessaires
 - loyer impayés
 - etc
-#Gestion de locataire
+# Gestion de locataire
 - Nom
 - Âge
 - Plaintes
